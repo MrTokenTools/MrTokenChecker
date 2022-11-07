@@ -3,7 +3,7 @@ Discord token checker
 
 
 
-Hi there, gladly presenting you - MrTokenChecker, a tool iwth GUI to check your Discord tokens status, sort them save in the individual files and much more :)
+Hi there, gladly presenting you - MrTokenChecker, a tool iwth GUI to check your Discord tokens status, sort them, save in the individual files and much more :)
 
 Supports proxy/proxyless mode, proxy format is login:pass@host:port
 Suports custom input paterns, input patterns with no email, or no pass, will scrape emails for you( in case if you have tokens in token:password or token: format)
